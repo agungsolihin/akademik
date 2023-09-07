@@ -1,0 +1,19 @@
+{
+  "name": "akademik",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agungsolihin/akademik.git"
+  },
+  "author": "agungsolihin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agungsolihin/akademik/issues"
+  },
+  "homepage": "https://github.com/agungsolihin/akademik#readme"
+}
