@@ -7,9 +7,6 @@ class UserService {
 
     async findByEmail(inputEmail) {
         const email = await this.userModel.findByEmail(inputEmail);
-        if (email) {
-            
-        }
     }
 }
 
